@@ -1,0 +1,17 @@
+.cover {
+	width: 30%;
+	height: 30%;
+	margin-left: 0px !important;
+}
+
+.coverFlex {
+	margin-top: 3rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	color: rgb(0, 139, 139);
+}
+.textFlex {
+	display: flex;
+	justify-content: flex-start;
+}
