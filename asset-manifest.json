@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/share/static/css/main.267bfaca.css",
+    "main.js": "/share/static/js/main.dbffdade.js",
+    "static/js/787.c5fb6c1c.chunk.js": "/share/static/js/787.c5fb6c1c.chunk.js",
+    "static/media/PlayfairDisplay-VariableFont_wght.ttf": "/share/static/media/PlayfairDisplay-VariableFont_wght.54971b7248ded7d0d614.ttf",
+    "static/media/Cover.jpg": "/share/static/media/Cover.f9e5bd6d1451238cff47.jpg",
+    "static/media/Quicksand-Regular.ttf": "/share/static/media/Quicksand-Regular.109d09e5f7c827d891ab.ttf",
+    "static/media/Oswald-Light.ttf": "/share/static/media/Oswald-Light.eb388cc4258f0d6ce064.ttf",
+    "static/media/DPlogo.png": "/share/static/media/DPlogo.a5ef033678da64f5ac55.png",
+    "index.html": "/share/index.html",
+    "main.267bfaca.css.map": "/share/static/css/main.267bfaca.css.map",
+    "main.dbffdade.js.map": "/share/static/js/main.dbffdade.js.map",
+    "787.c5fb6c1c.chunk.js.map": "/share/static/js/787.c5fb6c1c.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.267bfaca.css",
+    "static/js/main.dbffdade.js"
+  ]
+}
